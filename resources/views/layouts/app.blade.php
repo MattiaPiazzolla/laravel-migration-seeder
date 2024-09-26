@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <header class=" bg-body-danger">
+    <header class=" bg-danger">
         @include('partials.header')
     </header>
     <main>
